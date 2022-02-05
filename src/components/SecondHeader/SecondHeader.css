@@ -1,0 +1,27 @@
+.second-header{
+    display: flex;
+    background-image:"https://education.gsu.edu/files/2018/12/mse-banner-teacher-children-1920x1080.jpg"
+}
+.title{
+    margin-left: 80px;
+}
+.icon{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-left: 30px;
+}
+.site-detail{
+    display: flex;
+    align-items: center;
+    margin-left: 430px;
+    text-decoration: none;
+}
+.site-detail nav{
+    text-decoration: none;
+}
+.web-description{
+    text-align: center;
+    align-items: center;
+    margin-top: 80px;
+}

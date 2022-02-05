@@ -1,5 +1,11 @@
-.App {
+/* .App {
   text-align: center;
+} */
+.first-container{
+  background-image: url('./unsplash.jpg');  
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 670px;
 }
 
 .App-logo {

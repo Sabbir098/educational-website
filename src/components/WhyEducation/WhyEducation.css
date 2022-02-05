@@ -1,0 +1,10 @@
+.edu-title{
+    text-align: center;
+    margin-top: 65px;
+}
+.edu-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin-top: 60px;
+    margin-left: 100px;
+}
